@@ -1,6 +1,0 @@
-/data
-*.log
-snakejob*
-.cache/
-.snakemake/
-*.swp
