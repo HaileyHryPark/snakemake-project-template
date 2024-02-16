@@ -1,0 +1,1 @@
+# snakemake-project-template
