@@ -3,3 +3,4 @@ snakejob*
 .cache/
 .snakemake/
 *.swp
+data/
