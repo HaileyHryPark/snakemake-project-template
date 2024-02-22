@@ -15,6 +15,6 @@ smk
 Aliases:
 ```
 alias casmk='conda activate smk'
-alias smk='snakemake --profile ./pbs_config --use-conda'
+alias smk='snakemake --profile ./pbs_config --use-conda --latency-wait 60'
 ```
 
