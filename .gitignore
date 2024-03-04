@@ -4,3 +4,4 @@ snakejob*
 .snakemake/
 *.swp
 data/
+pbs_oe/
